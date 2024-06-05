@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning how to visualize my code with Tkinter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- ⚡ Fun fact: I am Geoscientist
+- ⚡ Fun fact: I am a Geoscientist
 
 <!---
 NickC151/NickC151 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
